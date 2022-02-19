@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NimajF
-- 👀 I’m interested in music, gym and programming
-- 🌱 I’m currently learning Web Develompemt
-- 💞️ I’m looking to collaborate on a project/job
+- 👀 I’m interested in music, gym and programming.
+- 🌱 I’m currently learning Web Develompemt using REACT and Express.js.
+- 💞️ I’m looking to collaborate on a project/job.
 <!-- - 📫 How to reach me ...
  -->
 <!---

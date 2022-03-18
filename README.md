@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NimajF
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in music, gym and programming.
-- 🌱 I’m currently learning Web Develompemt using REACT and Express.js.
+- 🌱 I’m currently learning Web Develompemt using React/NextJS + MongoDB & Express.
 - 💞️ I’m looking to collaborate on a project/job.
 <!-- - 📫 How to reach me ...
  -->

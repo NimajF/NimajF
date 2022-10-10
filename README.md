@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Benjamin
+<h1 align="center">Hi, I’m Benjamin</h1>
+<h2 align="center">FullStack Developer</h2>
+
+```css
+React/NextJS + MongoDB & Express.
+```
 - 👀 I’m interested in music, gym and programming.
-- 🌱 I’m currently learning Web Develompemt using React/NextJS + MongoDB & Express.
 - 💞️ I’m looking to collaborate on a project/job.
 <!-- - 📫 How to reach me ...
  -->

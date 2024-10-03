@@ -2,7 +2,10 @@
 <h2 align="center">FullStack Developer</h2>
 
 ```css
-React/NextJS + MongoDB & Express.
+React/NextJS + MongoDB & Express - MySQL
+JAVA
+Python + Django
+
 ```
 - 👀 I’m interested in music, gym and programming.
 - 💞️ I’m looking to collaborate on a project/job.

@@ -1,17 +1,33 @@
-<h1 align="center">Hi, I’m Benjamin</h1>
-<h2 align="center">FullStack Developer</h2>
+# 👋 Hi, I'm Benjamin!
 
-```css
-React/NextJS + MongoDB & Express - MySQL
-JAVA
-Python + Django
+### 🌐 Web Developer & Crypto enthusiast | 💻 Systems Analyst Student | 🚀 Passionate About Tech and Crypto World
 
-```
-- 👀 I’m interested in music, gym and programming.
-- 💞️ I’m looking to collaborate on a project/job.
-<!-- - 📫 How to reach me ...
- -->
-<!---
-NimajF/NimajF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a web developer with a knack for creating sleek, functional, and efficient websites and applications. I'm currently pursuing a degree in **Systems Analysis**, always expanding my skills in programming and development. 
+
+## Visit my [Portfolio](https://benjaminpuricelli.vercel.app/)!
+
+## 🔧 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, 
+- **Backend**: Node.js, Express, MongoDB, Django, NextJS
+---
+
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimajF&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimajF&layout=compact&theme=radical)
+
+---
+
+## 🌍 Let's Connect!
+
+- 📫 [Email](mailto:jafran2000@gmail.comben.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-francisco-puricelli/)
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
+
+---
+
+⭐️ From [Your Name](https://github.com/NimajF)

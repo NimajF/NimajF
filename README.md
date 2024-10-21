@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Benjamin!
+# <h1 align="center">👋 Hi, I'm Benjamin!</h1>
 
 ### 🌐 Web Developer & Crypto enthusiast | 💻 Systems Analyst Student | 🚀 Passionate About Tech and Crypto World
 

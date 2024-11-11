@@ -29,6 +29,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 ---
 
-⭐️ From [Your Name](https://github.com/NimajF)
-
 [![](https://visitcount.itsvg.in/api?id=NimajF&icon=0&color=0)](https://visitcount.itsvg.in)

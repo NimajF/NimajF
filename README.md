@@ -2,7 +2,8 @@
 
 ### 🌐 Web Developer & Crypto enthusiast | 💻 Systems Analyst Student | 🚀 Passionate About Tech and Crypto World
 
-Welcome to my GitHub! I'm a web developer with a knack for creating sleek, functional, and efficient websites and applications. I'm currently pursuing a degree in **Systems Analysis**, always expanding my skills in programming and development. 
+Welcome to my GitHub! 
+I'm a web developer with a passion for creating sleek, functional, and efficient websites and applications. I'm currently pursuing a degree in **Systems Analysis**, always expanding my skills in programming and development. 
 
 ## Visit my [Portfolio](https://benjaminpuricelli.vercel.app/)!
 

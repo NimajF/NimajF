@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Hi, I'm Benjamin!</h1>
 
-### 🌐 Web Developer & Crypto enthusiast | 💻 Systems Analyst Student | 🚀 Passionate About Tech and Crypto World
+### 🌐 Web Developer & Crypto enthusiast | 💻 Systems Analyst | 🚀 Passionate About Tech and Crypto World
 
 Welcome to my GitHub! 
 I'm a web developer with a passion for creating sleek, functional, and efficient websites and applications. I'm currently pursuing a degree in **Systems Analysis**, always expanding my skills in programming and development. 
